@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple Risk Register, that is the centralized location of every risk that is identified within an organization. It is to help manage, monitor, and mitigate risk and help to understand who is responsible and who is taking ownership of risks.
+Project consists of a simple Risk Register, that is the centralized location of every risk that is identified within an organization. It is to help manage, monitor, and mitigate risk and help to understand who is responsible and who is taking ownership of risks. 
 <br />
 
 
