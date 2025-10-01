@@ -16,11 +16,9 @@ https://docs.google.com/spreadsheets/d/1NwcoYwrJ6voAk9D-ibPE8-_esw5yL7b9mFGPFv19
 
 <p align="center">
 Launch the utility: <br/>
-<img src="C:\Users\Admin\Desktop\GRC Nerds\Risk Register\Risk Register.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/tcTyMUE.png](https://imgur.com/a/mKIG9zX)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
