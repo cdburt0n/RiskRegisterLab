@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1NwcoYwrJ6voAk9D-ibPE8-_esw5yL7b9mFGPFv19
 
 <p align="center">
 Launch the utility: <br/>
-<img src="file:///C:/Users/Admin/Desktop/GRC%20Nerds/Risk%20Register/Risk%20Register%20Template.pdf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://www.canva.com/design/DAG0hONFOks/f81_V8kQFxAyyKulInGTqQ/view?utm_content=DAG0hONFOks&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd304df323c)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
