@@ -4,7 +4,7 @@ This document consists of a simple Risk Register, the centralized location of ev
 <br />
 
 ## Outline 
-https://docs.google.com/document/d/1ZoeFOb49rlUearJi0D1iJT_GiW1hfG4EU0_ab--QlpQ/edit?tab=t.0#heading=h.qzev6tmggv0u
+[https://docs.google.com/document/d/1ZoeFOb49rlUearJi0D1iJT_GiW1hfG4EU0_ab--QlpQ/edit?tab=t.0#heading=h.qzev6tmggv0u](https://docs.google.com/document/d/1ZTuRUlC3hBS3uzZG9cdOZq8hSAc8SiyVh-ebPGx3Jb0/edit?tab=t.0)
 
 ## Risk Register  
 https://docs.google.com/spreadsheets/d/1NwcoYwrJ6voAk9D-ibPE8-_esw5yL7b9mFGPFv196Yc/edit?gid=0#gid=0
@@ -12,11 +12,11 @@ https://docs.google.com/spreadsheets/d/1NwcoYwrJ6voAk9D-ibPE8-_esw5yL7b9mFGPFv19
 
 
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="file:///C:/Users/Admin/Desktop/GRC%20Nerds/Risk%20Register/Risk%20Register%20Template.pdf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
