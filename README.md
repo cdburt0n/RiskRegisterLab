@@ -1,6 +1,6 @@
-<h1>Risk Register Lab</h1>
+<h1>Risk Register </h1>
 <h2>Description</h2>
-Project consists of a simple Risk Register, that is the centralized location of every risk that is identified within an organization. It is to help manage, monitor, and mitigate risk and help to understand who is responsible and who is taking ownership of risks. 
+This document consists of a simple Risk Register, the centralized location of every risk identified within an organization. It helps to manage, monitor, and mitigate risks and helps to understand responsibilities and who is taking ownership of each risk. 
 <br />
 
 ## Outline 
